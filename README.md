@@ -13,7 +13,7 @@ npm i react-native-polygon-round-edge
 Import:
 
 ```
-import roundPolygon from "react-native-polygon-round-edge";
+import roundPolygon from "react-native-polygon-round-edges";
 ```
 
 
